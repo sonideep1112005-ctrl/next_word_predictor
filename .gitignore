@@ -1,0 +1,4 @@
+.venv/
+quotes_dataset.csv
+__pycache__/
+*.pyc
